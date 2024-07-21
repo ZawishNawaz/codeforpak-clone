@@ -1,0 +1,4 @@
+.cfp-gradient {
+    background: rgb(34,160,195);
+    background: linear-gradient(90deg, #20a4dd 0%, #6fbe44 100%);
+}
